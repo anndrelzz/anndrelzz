@@ -1,9 +1,9 @@
 👩🏻‍💻 André Estevão
-
 **`Desenvolvedor Front-end`**
-
+##
 Me chamo André Luiz, tenho 22 anos e sou natural de Santa Catarina. Concluí o ensino medio com um técnico integrado em eletroeletrônica no IFSC e atualmente sou estudante de Engenharia de Software no Centro Universitario Católica de Santa Catarina.
 
+## Contacts:
 <div> 
 <a href="https://www.instagram.com/anndrlz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
@@ -12,7 +12,7 @@ Me chamo André Luiz, tenho 22 anos e sou natural de Santa Catarina. Concluí o 
 
 
 ### 📊 Stats
-<a href="https://github.com/anndrelzz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anndrelzz&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="github stats" /></a> <a href="https://github.com/anndrelzz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrelzz&layout=compact&theme=dracula&hide_border=true" /></a>
+<a href="https://github.com/anndrelzz/github-readme-stats"><img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=anndrelzz&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="github stats" /></a> <a href="https://github.com/anndrelzz/github-readme-stats"><img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrelzz&layout=compact&theme=dracula&hide_border=true" /></a>
 
 #### Main Stack:
 
