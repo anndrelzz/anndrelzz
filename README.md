@@ -3,6 +3,8 @@
 ##
 Me chamo André Luiz, tenho 22 anos e sou natural de Santa Catarina. Concluí o ensino medio com um técnico integrado em eletroeletrônica no IFSC e atualmente sou estudante de Engenharia de Software no Centro Universitario Católica de Santa Catarina.
 
+My name is André Luiz, I am 22 years old and I am from Santa Catarina, Brazil. I completed high school with an integrated technical course in Electroelectronics at IFSC, and I am currently a Software Engineering student at the Catholic University Center of Santa Catarina.
+
 ## Contacts:
 <div> 
 <a href="https://www.instagram.com/anndrlz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
