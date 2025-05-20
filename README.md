@@ -1,16 +1,27 @@
-## Hi there 👋
+👩🏻‍💻 André Estevão
 
-<!--
-**anndrelzz/anndrelzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**`Desenvolvedor Front-end`**
 
-Here are some ideas to get you started:
+Me chamo André Luiz, tenho 22 anos e sou natural de Santa Catarina. Concluí o ensino medio com um técnico integrado em eletroeletrônica no IFSC e atualmente sou estudante de Engenharia de Software no Centro Universitario Católica de Santa Catarina.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/anndrlz/)
+
+### 📊 Stats
+<a href="https://github.com/anndrelzz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anndrelzz&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="github stats" /></a> <a href="https://github.com/anndrelzz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrelzz&layout=compact&theme=dracula&hide_border=true" /></a>
+
+#### Main Stack:
+
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
+#### Studying in this moment:
+
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+
+
+ <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
