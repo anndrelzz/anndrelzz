@@ -4,7 +4,12 @@
 
 Me chamo André Luiz, tenho 22 anos e sou natural de Santa Catarina. Concluí o ensino medio com um técnico integrado em eletroeletrônica no IFSC e atualmente sou estudante de Engenharia de Software no Centro Universitario Católica de Santa Catarina.
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://https://www.instagram.com/anndrlz/)
+<div> 
+<a href="https://www.instagram.com/anndrlz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/andrelzz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
+</div>&nbsp;&nbsp;
+
 
 ### 📊 Stats
 <a href="https://github.com/anndrelzz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=anndrelzz&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="github stats" /></a> <a href="https://github.com/anndrelzz/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrelzz&layout=compact&theme=dracula&hide_border=true" /></a>
