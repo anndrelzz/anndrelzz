@@ -15,6 +15,7 @@ My name is André Luiz, I am 22 years old and I am from Santa Catarina, Brazil. 
 <a href="https://www.linkedin.com/in/andrelzz/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
 </div>&nbsp;&nbsp;
 
+Email contact: dre.estevao@gmail.com
 
 ### 📊 Stats
 
