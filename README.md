@@ -15,7 +15,7 @@ My name is André Luiz, I am 22 years old and I am from Santa Catarina, Brazil. 
 
 ### 📊 Stats
 
-<a href="https://github.com/anndrelzz/github-readme-stats"><img width="42%" align="center" src="https://github-readme-stats.vercel.app/api?username=anndrelzz&show_icons=true&include_all_commits=true&theme=dracula&hide_border=true" alt="github stats" /></a> <a href="https://github.com/anndrelzz/github-readme-stats"><img width="42%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anndrelzz&layout=compact&theme=dracula&hide_border=true" /></a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide=jupyter&layout=compact)
 
 #### Main Stack:
 
