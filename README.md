@@ -1,5 +1,5 @@
 👩🏻‍💻 André Estevão
-**`Desenvolvedor Front-end`**  <p align="center"> 
+**`Desenvolvedor`**  <p align="center"> 
                                   Visitor count<br>
                                   <img src="https://profile-counter.glitch.me/anndrelzz/count.svg" />
                               </p>
