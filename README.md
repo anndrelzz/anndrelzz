@@ -1,8 +1,6 @@
 👩🏻‍💻 André Estevão
 **`Desenvolvedor`**  <p align="center"> 
-                                  Visitor count<br>
-                                  <img src="https://profile-counter.glitch.me/anndrelzz/count.svg" />
-                              </p>
+                              
 ##
 Me chamo André Luiz, tenho 22 anos e sou natural de Santa Catarina. Concluí o ensino medio com um técnico integrado em eletroeletrônica no IFSC e atualmente sou estudante de Engenharia de Software no Centro Universitario Católica de Santa Catarina.
 
